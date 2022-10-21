@@ -1,0 +1,39 @@
+@charset "utf-8";
+h1{
+  font-size: 48px;
+  background-color: rgba(22, 251, 10, 0.441);
+}
+
+h2{
+  text-align: center;
+  background-color: rgba(235, 116, 215, 0.441);
+  
+}
+h3{
+  font-size: 24px;
+  background-color: rgba(250, 248, 250, 0.441);
+}
+h4{
+    font-size: 20px;
+    background-color: rgba(6, 250, 242, 0.441);
+  }
+h5{
+  font-size: 16px;
+  background-color: rgba(250, 38, 1, 0.441);
+}
+p{
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+li{
+  font-size: 24px;
+  line-height: 4;
+}
+img{
+  text-align: center;
+  width: 100%;
+}
+body{
+  background-color: rgb(255, 0, 212);
+}
